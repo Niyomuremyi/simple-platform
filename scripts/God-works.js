@@ -19,11 +19,6 @@ products.forEach((product)=>{
             <div class="added-to-cart">
                 <button class="add-to-cart-button  js-add-to-cart" data-product-id="${product.id}">add to cart</button></div>
 
-                <div>
-                    <button>
-                        LOVE
-                    </button>
-                 </div>
         </div>
   `
 });
